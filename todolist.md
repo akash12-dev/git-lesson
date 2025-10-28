@@ -1,4 +1,4 @@
 # todo list
 
-- [] teach github course
-- [] work on code
+- [ ] teach github course
+- [ ] work on code
